@@ -50,6 +50,8 @@
     </a>
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/gmail.svg" width="4%" style="max-width: 100%;"></a>
    <a href="https://instagram.com/silveriomoraes13" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" target="_blank" width="4%" style="max-width: 100%;"></a>
+   
+   ![Snake animation](https://github.com/SilverioMoraes/SilverioMoraes/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 

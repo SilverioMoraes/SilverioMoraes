@@ -38,6 +38,7 @@
    <img align="center" alt="docker" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
    <img align="center" alt="Mysql" height="45" width="60" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
   <img align="center" alt="nodejs" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="mongodb" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
 ---

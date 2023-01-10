@@ -49,6 +49,7 @@
   <a href="https://www.linkedin.com/in/silverio-moraes/" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" width="4%" style="max-width: 100%;"></a> 
   <a href="https://twitter.com/SilverS1910" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/twitter.svg" width="4%" style="max-width: 100%;">
     </a>
+  <a href="mailto:brunamfguimaraes@gmail.com?subject=Contato%20realizado%20pelo%20github">
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/gmail.svg" width="4%" style="max-width: 100%;"></a>
    <a href="https://instagram.com/silveriomoraes13" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" target="_blank" width="4%" style="max-width: 100%;"></a>
    

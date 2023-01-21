@@ -4,7 +4,7 @@
   <img height="150px" align="right" src="[https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png](https://scontent.fssa24-1.fna.fbcdn.net/v/t39.1997-6/298224307_593936718784384_702424967294112252_n.webp?stp=cp0_dst-webp_s75x225&_nc_cat=105&ccb=1-7&_nc_sid=ac3552&_nc_ohc=P_n6znBXX48AX9yv6tJ&tn=kJjwFUSZ7nPdPUEv&_nc_ht=scontent.fssa24-1.fna&oh=00_AfDEcbNXB5oZCJ_s0bw9SLVPXuUHe8FhnFXvxsmQ3D-oLg&oe=63670A66)" />
   <div align="left" style="display: inline_block">
     <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
-    <li>- 🌱 Aprendendo TypeScript</li>
+    <li>- 🌱 Aprendendo Python </li>
     <li>- 💬 Me pergunte sobre séries e animes</li>
     <li>- ⚡ Curiosidade: gosto de heavy metal</li>
   </div>
@@ -38,6 +38,8 @@
    <img align="center" alt="docker" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
    <img align="center" alt="Mysql" height="45" width="60" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
   <img align="center" alt="nodejs" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="typescript" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+</div>
   <img align="center" alt="mongodb" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 

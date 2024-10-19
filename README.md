@@ -31,7 +31,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jest" height="30" width="40" src="https://jestjs.io/img/jest.png">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="ReactRouter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react-router/react-router.svg">
+  <img align="center" alt="ReactRouter" height="30" width="40" src="https://www.svgrepo.com/show/354262/react-router.svg">
   <img align="center" alt="RTL" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png">
   <img align="center" alt="redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
    <img align="center" alt="docker" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
